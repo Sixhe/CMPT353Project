@@ -1,0 +1,21 @@
+# Core data stack
+pandas==2.2.3
+numpy==2.2.3
+matplotlib==3.10.3
+seaborn==0.13.2
+
+# Stats & ML
+scipy==1.15.3
+statsmodels==0.14.4
+scikit-learn==1.7.0
+patsy==1.0.1
+
+# Geospatial (used by maps in the notebook)
+geopandas==1.1.1
+shapely==2.1.1
+pyproj==3.7.1
+pyogrio==0.11.1
+
+# Notebook tooling (optional but recommended to run project.ipynb)
+jupyter==1.1.1
+ipykernel==6.29.5

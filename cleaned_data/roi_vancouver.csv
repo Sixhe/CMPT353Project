@@ -1,0 +1,4 @@
+city,neighbourhood,predicted_revenue,benchmark_price,roi_ratio
+Vancouver,Downtown,25337.3426612589,660017.0,0.03838892431749318
+Vancouver,Strathcona,29079.25074563822,917658.0,0.03168854926959523
+Vancouver,Renfrew-Collingwood,25968.415757938423,900658.0,0.02883271536802918
